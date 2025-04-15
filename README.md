@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center">A passionate C++/C# developer from S.Korea</h3>
+
+<p align="center">Connect with me:</h3>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=I%20am%20Christopher%20Kim%20:)&reversal=false&section=header&textBg=false&fontAlignY=42&descAlign=39" />
   
@@ -32,7 +36,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christopher-emunah-kim" alt="christopher-emunah-kim" /></a> </p>
 
-<p align="center">Connect with me:</h3>
+
 <p align="center">
 </p>
 
