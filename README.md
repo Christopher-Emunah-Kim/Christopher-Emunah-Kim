@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 <p align="center">Connect with me:</h3>
 
+<br/><br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=I%20am%20Christopher%20Kim%20:)&reversal=false&section=header&textBg=false&fontAlignY=42&descAlign=39" />
