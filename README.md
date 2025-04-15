@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">A passionate C++/C# developer from S.Korea</h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=I%20am%20Christopher%20Kim.&fontColor=0D3EA3&color=F2B9CF&fontAlign=52](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=I%20am%20Christopher%20Kim%20:)&reversal=false&section=header&textBg=false&fontAlignY=42&descAlign=39" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=I%20am%20Christopher%20Kim%20:)&reversal=false&section=header&textBg=false&fontAlignY=42&descAlign=39" />
   
 </p>
 
