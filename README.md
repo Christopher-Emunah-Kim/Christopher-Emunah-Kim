@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">A passionate C++/C# developer from S.Korea</h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=I%20am%20Christopher%20Kim.&fontColor=0D3EA3&color=F2B9CF&fontAlign=52" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&height=200&text=I%20am%20Christopher%20Kim.&fontColor=0D3EA3&color=F2B9CF&fontAlign=52](https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=I%20am%20Christopher%20Kim%20:)&reversal=false&section=header&textBg=false&fontAlignY=42&descAlign=39)" />
+  
 </p>
 
 - 👨‍💻 저에게 궁금한 사항이 있다면, [https://christopher-emunah-kim.github.io/] 를 방문해주세요!
@@ -37,6 +38,11 @@ Here are some ideas to get you started:
 
 <p align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+
+
+
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=christopher-emunah-kim&label=Profile%20views&color=0e75b6&style=flat" alt="christopher-emunah-kim" /> </p>
