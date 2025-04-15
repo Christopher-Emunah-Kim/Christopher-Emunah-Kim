@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 저에게 궁금한 사항이 있다면, [https://christopher-emunah-kim.github.io/] 를 방문해주세요!
 - 📫 저의 이메일 주소입니다. hashin.chris@gmail.com
-
+<br/><br/>
 --------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Christopher-Emunah-Kim">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Emunah-Kim&layout=compact">
 </p>
-
+<br/><br/>
 --------------------------------------
 
 <h3 align="center">Languages and Tools:</h3>
@@ -42,12 +42,12 @@ Here are some ideas to get you started:
 </p
 <p align="center">
 </p>
-
+<br/><br/>
 --------------------------------------
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christopher-emunah-kim" alt="christopher-emunah-kim" /></a> </p>
 
-
+<br/><br/><br/>
 
 
 
