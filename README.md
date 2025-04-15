@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Emunah-Kim&layout=compact">
 </p>
 <br/><br/>
+
 --------------------------------------
 
 <h3 align="center">Languages and Tools:</h3>
@@ -43,9 +44,11 @@ Here are some ideas to get you started:
 <p align="center">
 </p>
 <br/><br/>
+
 --------------------------------------
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christopher-emunah-kim" alt="christopher-emunah-kim" /></a> </p>
+
 
 <br/><br/><br/>
 
