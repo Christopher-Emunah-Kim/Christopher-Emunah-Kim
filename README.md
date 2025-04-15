@@ -1,27 +1,33 @@
-<!--
-**Christopher-Emunah-Kim/Christopher-Emunah-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h3 align="center">A passionate C++/C# developer from S.Korea</h3>
-
 <p align="center">Connect with me:</h3>
-
-<br/><br/>
+![GitHub followers](https://img.shields.io/github/followers/Christopher-Emunah-Kim?label=Follow&style=social)
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=I%20am%20Christopher%20Kim%20:)&reversal=false&section=header&textBg=false&fontAlignY=42&descAlign=39" />
   
 </p>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Christopehr Kim = {
+    pronouns: "He" | "Him",
+    code: ["C++", "C#", "HTML", "Python"],
+    askMeAbout: ["game dev", "client dev", "app dev", "UI/UX", "tech trends"],
+    technologies: {
+        client: {
+            c++: ["Unreal"],
+            c#: ["Unity"],
+        },
+        databases: ["SQLite", "Firebase Realtime DB"],
+        generativeAI: ["GPT", "MidJourney","SeaArt],
+    },
+    currentFocus: "Basic understanding of computing languages",
+    funFact: "I can debug faster with a coke in hand!"
+};
+```
+
 
 - 😄 All of my projects are available at [https://hashinkim.notion.site/Portfolio-11b1ba272aac803cb508c7735798df54?pvs=4]
 - 👨‍💻 Ask me about C++, C#, please visit [https://christopher-emunah-kim.github.io/]
