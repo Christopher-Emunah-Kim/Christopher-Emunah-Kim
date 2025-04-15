@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 저에게 궁금한 사항이 있다면, [https://christopher-emunah-kim.github.io/] 를 방문해주세요!
 - 📫 저의 이메일 주소입니다. hashin.chris@gmail.com
-<br/><br/>
+<br/>
 --------------------------------------
 
 <h3 align="left">Languages and Tools:</h3>
