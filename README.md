@@ -23,8 +23,9 @@ Here are some ideas to get you started:
   
 </p>
 
-- 👨‍💻 저에게 궁금한 사항이 있다면, [https://christopher-emunah-kim.github.io/] 를 방문해주세요!
-- 📫 저의 이메일 주소입니다. hashin.chris@gmail.com
+- 😄 All of my projects are available at [https://hashinkim.notion.site/Portfolio-11b1ba272aac803cb508c7735798df54?pvs=4]
+- 👨‍💻 Ask me about C++, C#, please visit [https://christopher-emunah-kim.github.io/]
+- 📫 How to reach me. [hashin.chris@gmail.com]
 <br/>
 
 --------------------------------------
