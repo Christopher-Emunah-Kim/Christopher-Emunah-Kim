@@ -1,5 +1,4 @@
 <h3 align="center">A passionate C++/C# developer from S.Korea</h3> 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p align="center">Connect with me:</h3>
 
 ![GitHub followers](https://img.shields.io/github/followers/Christopher-Emunah-Kim?label=Follow&style=social)
@@ -73,6 +72,7 @@ const Christopehr Kim = {
 <br/><br/><br/>
 
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
             
 
