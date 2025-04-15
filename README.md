@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 --------------------------------------
 
+<br/>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
@@ -50,6 +52,8 @@ Here are some ideas to get you started:
 <br/><br/>
 
 --------------------------------------
+
+<br/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christopher-emunah-kim" alt="christopher-emunah-kim" /></a> </p>
 
