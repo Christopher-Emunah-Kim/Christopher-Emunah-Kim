@@ -34,7 +34,7 @@ const Christopehr Kim = {
 
 - 😄 All of my projects are available at [https://hashinkim.notion.site/Portfolio-11b1ba272aac803cb508c7735798df54?pvs=4]
 - 👨‍💻 Ask me about C++, C#, please visit [https://christopher-emunah-kim.github.io/]
-- 📫 How to reach me. [hashin.chris@gmail.com]
+- 📫 How to reach me. [ hashin.chris@gmail.com ]
 <br/>
 
 
