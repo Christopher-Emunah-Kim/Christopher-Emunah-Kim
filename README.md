@@ -22,8 +22,8 @@ const Christopehr Kim = {
             c++: ["Unreal"],
             c#: ["Unity"],
         },
-        databases: ["SQLite", "Firebase DB"],
-        generativeAI: ["GPT", "MidJourney","SeaArt"],
+        databases: ["SQLite", "Firebase DB "],
+        generativeAI: ["GPT", "Claude", "MidJourney","SeaArt"],
     },
     currentFocus: "Basic understanding of computing languages",
     funFact: "I can debug faster with a coke in hand!"
