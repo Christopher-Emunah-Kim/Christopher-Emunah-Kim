@@ -1,4 +1,4 @@
-<h3 align="center">A passionate C++/C# developer from S.Korea</h3> 
+<h3 align="center">A Passionate C++/C# Developer from S.Korea</h3> 
 <p align="center">Connect with me:</h3>
 
 ![GitHub followers](https://img.shields.io/github/followers/Christopher-Emunah-Kim?label=Follow&style=social)
