@@ -16,7 +16,7 @@
 const Christopehr Kim = {
     pronouns: "He" | "Him",
     code: ["C++", "C#", "HTML", "Python"],
-    askMeAbout: ["game dev", "client dev", "app dev", "UI/UX", "tech trends"],
+    askMeAbout: ["game dev", "client dev", "app dev", "UI/UX", "tech  trends"],
     technologies: {
         client: {
             c++: ["Unreal"],
