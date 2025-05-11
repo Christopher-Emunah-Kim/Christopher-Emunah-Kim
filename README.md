@@ -22,7 +22,7 @@ const Christopehr Kim = {
             c++: ["Unreal"],
             c#: ["Unity"],
         },
-        databases: ["SQLite", "Firebase DB "],
+        databases: ["SQLite", "Firebase DB"],
         generativeAI: ["GPT", "Claude", "MidJourney","SeaArt"],
     },
     currentFocus: "Basic understanding of computing languages",
